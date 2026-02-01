@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Fooder - Odkryj swoje ulubione dania",
   description:
     "Aplikacja do odkrywania i zapisywania ulubionych przepisów. Przesuń w prawo aby polubić, w lewo aby pominąć.",
-  generator: "v0.app",
+  generator: "0.app",
   icons: {
     icon: [
       {
